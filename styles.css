@@ -1,8 +1,8 @@
 body {
-  background-image: url("https://www.ualberta.ca/en/university-relations/media-library/community-relations/photos/12784-06-115-athabasca02.png");
+  background-image: url("https://bamfieldmsc.com/wp-content/uploads/2014/10/University_of_Alberta_Biology_Building_Pano-704x270.jpg");
   background-color: azure;
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-size: auto;
+  background-repeat: repeat;
   margin: 0;
   font-family: "Times New Roman', Times, serif";
 }
