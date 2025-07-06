@@ -1,0 +1,50 @@
+body {
+  background-image: url("https://www.ualberta.ca/en/university-relations/media-library/community-relations/photos/12784-06-115-athabasca02.png");
+  background-color: azure;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+  font-family: "Times New Roman', Times, serif";
+}
+
+header {
+  text-align: center;
+  font-size: 18px;
+  color: #8b4513;
+  padding: 10px 0;
+  background-color: rgba(255, 222, 186, 0.8);
+  border-bottom: 2px solid #deb887;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+#major, #minor, #major-courses, #minor-courses {
+  color: black;
+  width: 45%;
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+h1, h2 {
+  margin-top: 0;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+.container h1, 
+.container h2 {
+  text-align: center;
+  text-decoration: underline;
+}
